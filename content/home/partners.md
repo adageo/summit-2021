@@ -19,7 +19,10 @@ subtitle = ""
 
 The ADAGEO Summit and Thematic School is supported by the following institutions:
 
-<img style='display:inline; padding-right:30px' src="/img/logos/logo-cnrs.png" width="90" height="70" />
-<img style='display:inline; padding-right:30px' src="/img/logos/logo-liris.png" width="130" height="200" />
-<img style='display:inline; padding-right:30px' src="/img/logos/logo-ufrn.png" width="130" height="200" />
-<img style='display:inline; padding-right:10px' src="/img/logos/logo-capes.png" width="90" height="70" />
+<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-cnrs.png" width="90" height="70" />
+<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-liris.png" width="90" height="70" />
+<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-ufrn.png" width="90" height="70" />
+<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-capes.png" width="90" height="70" />
+
+
+
