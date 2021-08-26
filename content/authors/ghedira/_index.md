@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chirine Ghedira
+title: Aderson Farias do Nascimento
 
 
 # Username (this should match the folder name)
@@ -15,19 +15,19 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: IAE Univ. Lyon 3, LIRIS lab
-#  url: 'https://iae.univ-lyon3.fr/accueil-en'
-#- name: LIRIS lab
-#  url: 'https://liris.cnrs.fr/en'  
+- name: Universidade Federal Rio Grande do Norte
+#  url: 'https://www.ufrn.br'
+#- name: DGEF
+#  url: 'https://www1.ccet.ufrn.br/geofisica/'  
 
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chirine.ghedira-guegan@univ-lyon3.fr"
+email: "aderson.nascimento@ufrn.br"
 
 
 # Extension: website url
-website: "https://iae.univ-lyon3.fr/ghedira-guegan-ons-chirine"
+#website: "https://iae.univ-lyon3.fr/ghedira-guegan-ons-chirine"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
