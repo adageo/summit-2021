@@ -30,7 +30,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "network-2021.jpg"  # Name of image in `static/img/`.
+  image = "network-2021-a.jpg"  # Name of image in `static/img/`.
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -45,8 +45,8 @@ subtitle = ""
 
 +++
 
-# STRAPS 2021  
-## 3rd Workshop on **S**mart Da**t**a Integ**r**ation **a**nd **P**rocessing on **S**ervice Based Environments  
-## In conjunction with [ICSOC 2021](http://icsoc2021.josueonline.com)
+# ADAGEO SUMMIT - THEMATIC SCHOOL 2021  
+## 1st Workshop on Data Science based Geophysics: connections, challenges & research opportunities 
+## In the context of the CNRS IEA France - Brazil [ADAGEO](https://adageo.github.io)
 
-**22 November**
+**29 November - 3 December 2021**
