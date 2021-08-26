@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nadia Bennani
+title: Martin Musicante
 
 
 # Username (this should match the folder name)
@@ -11,22 +11,22 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 
 # Organizations/Affiliations
 organizations:
-- name: INSA Lyon, LIRIS lab
-  #url: 'https://www.insa-lyon.fr/en/'
-#- name: LIRIS lab
-  #url: 'https://liris.cnrs.fr/en'  
+- name: Universidade Federal Rio Grande do Norte
+  #url: 'https://www.ufrn.br'
+#- name: DIMAP
+  #url: 'https://www.dimap.ufrn.br'  
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gnadia.bennani@insa-lyon.fr"
+email: "mam@dimap.ufrn.br"
 
 # Extension: website url
-website: "https://liris.cnrs.fr/en/member-page/nadia-bennani"
+website: "https://www.dimap.ufrn.br/~mam/"
 
 
 # Organizational groups that you belong to (for People widget)
