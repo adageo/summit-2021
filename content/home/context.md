@@ -15,20 +15,12 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
+Massive data production is a critical aspect of experimental sciences. Many areas have experienced the exponential growth of data availability in the past decade. It has not been different for geoscience. Examples of geoscientific data include any physical observable related to the energy industry, mining, monitoring of hazardous areas (e.g. effects of salt mining in populated areas), among many others. Nowadays, with the relative facility and lowering the cost to acquire data -- even in continuous mode -- the data processing to exploit their value, is a challenge: it requires expertise in data maintenance and processing, data analysis, and in the design of experiments of target domains for which data will provide insight and knowledge. 
 
+Traditional analysis in the area using these computing and data services revolves around the creation of physics-based models. These are developed and executed by geoscience professionals with a deep understanding of geology, geophysics, engineering, reservoir dynamics, production technology and economics, among other things. They are supported by data managers who ensure the availability of high-quality data that powers the decision-making process. In contexts where there is a high density of data, significant actions are now being invested in advanced analytical techniques such as machine learning, to augment decisions traditionally made exclusively by geoscientists and engineers. 
 
-More than ever, reducing the cost of data integration by efficiently evaluating queries is an important challenge, given that today the economic cost in computing cycles (see your cloud invoice); and in energy consumption and the performance required for some critical tasks have become important. Besides, new applications require solving even more complex queries including millions of sources, and data with high levels of volume and variety. These challenges call for intelligent processes that can learn from previous experiences, that can be adaptable to changing requirements and dynamic execution contexts.
-
-This workshop follows a first and second successful editions in conjunction with ICSOC 2019 in Toulouse, and ICSOC 2020 in Abu Dhabi (online) that led to vivid programs with interesting discussions (https://straps-workshop.github.io) and keynotes that provided reference on trend problems addressed in academia and industry around STRAPS topics. 
-
-The third edition of the workshop STRAPS aims at promoting scientific discussion on the way data produced under different conditions can be efficiently integrated to answer simple, relational, analytical queries according to the following conditions: 
-- These queries must cope to quality preferences associated with providers, algorithms and data trust. 
-
-- New scales in volume, velocity and value associated with integrated data collections require adapted solutions providing computing, storage and processing services potentially deployed on different highly distributed infrastructures and target architectures. 
-
-- With service, data and algorithms stemming from different and potentially huge numbers of providers, properties like provenance, quality and trust, arise as key properties to be quantified, evaluated and exposed to data consumers. How can data integration in such conditions be smart? This is the key question to be discussed by workshop participants.
-
+Many scientists and companies believe that they can generate fresh insight, reduce decision cycle times and steal a march on their competition by automating the search for patterns and relationships in their data. Therefore, geophysics and data science including algorithms, mathematical models and computing must converge for developing experiments for obtaining insight and foresight about the observations contained in data collections. Experiments represent best practices for addressing problems and questions on geophysics that must be treated as data and knowledge to be shared and reused by scientists and practitioners. 
 
 ##### OBJECTIVE
 
-The workshop STRAPS aims at promoting scientific discussion on the way data stemming from different providers and produced under different conditions can be efficiently integrated to answer simple, relational, analytical queries ensuring providers, algorithms and data trust.
+The ADAGEO Summit and Thematic School aims at promoting scientific discussion and practical actions and projects that can address geosciences problems through data science solutions. Thereby, the actions and interaction in this event will build a scientific and particcioiners transdisciplinary community the will develop a novel way of doing geosciences.
