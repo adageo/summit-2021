@@ -17,13 +17,13 @@ subtitle = ""
 
 +++
 
-The STRAPS workshop has several partners from academia and industry:
+The ADAGEO Summit and Thematic School is supported by the following institutions:
 
 <div class="container">    
   <div class="row">
     <div class="col-12 col-sm-auto"><a href="http://cnrs.fr/en/" target="_blank"><img src="/img/logos/logo_cnrs.png"></a></div>    
-    <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_liris.png"></a></div>    
-    <div class="col-12 col-sm-auto"><a href="http://datamedcare.com/" target="_blank"><img src="/img/logos/logo_dmc.png"></a></div>      
-    <div class="col-12 col-sm-auto"><a href="https://www.auvergnerhonealpes.fr" target="_blank"><img src="/img/logos/logo_ara.png"></a></div>        
+    <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_liris.png"></a></div> 
+      <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_ufrn.png"></a></div> 
+     <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_capes.png"></a></div> 
   </div>
 </div>
