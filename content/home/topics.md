@@ -16,23 +16,10 @@ subtitle = ""
   columns = "2"
 +++
 
-We invite the submission of work-in-progress research addressing various aspects of data integration and processing done in service-based infrastructures. The workshop welcomes submissions of technical, experimental, methodological papers, application papers, and papers on experience reports in real-life application settings addressing -- though not limited to -- the following topics:
+**Programming data science experiments** 
+- Applying statistical methods to investigate and unveil new patterns in geophysical data, answering open problems, or leading to new research questions.
+- Building predictive models to better describe or approximate geophysical phenomena, increasing the knowledge about our planet.
+- Parallelizing algorithms for processing geophysical data, thus, allowing for the processing of very large data sets in reasonable times.
 
--   SLA models for data integration/data management
--   Service based data processing and querying
--   Data services composition on cloud and multi-cloud
--   Trust and privacy in Cloud/Edge services
--   Data and service provenance
--   Data quality: evaluation, estimation, warranties
--   Microservices based data integration systems
--   Multi-scale data integration: learning-based, logic-based, (semi)-automatic, context aware, on the Web etc.
--   AI and data integration / Smart Big data integration
--   Data integration for smart applications
--   Innovative data integration platforms
--   Data Cleaning, Curation, Filtering and Dissemination, Metadata Management, Data Discovery, Semantic Web, Heterogeneous and Federated data sources
--   Blockchain and data integration
--   AI in Edge Computing (Edge AI)
--   IoT Data integration through Edge services
--   Web services in Edge clouds
--   Cloud & Fog Computing
--   User eXperience & Human in the loop in data integration and management
+Experiments will provide the ground to devise new data curation techniques to define new techniques for processing heterogeneous data. In addition, statistical knowledge is important for extracting information from the huge amount of data we will process. New methods and models will be important to model data and make conclusions in a timely fashion.
+
