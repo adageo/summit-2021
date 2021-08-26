@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 400  # Order that this section will appear.
 
-title = "Program Committee"
+title = "School Scientific Committee"
 subtitle = ""
 
 [design]
@@ -16,16 +16,18 @@ subtitle = ""
   columns = "2"
 +++
 
-- **Ali Akouglu**, Arizona University, USA
-- **Joao Batista Souza**, IFRN, Brazil
-- **Khalid Belhajjame**, University Paris Dauphine, LAMSADE,  France
+- **Bruno M. Carvalho**, UFRN, Brazil
 - **Umberto Costa**, UFRN, Brazil
+- **Martin Musicante**, UFRNS, Brazil
+- **Aderson Nascimento**, UFRN, Brazil
+- **Marcus Alexandre Nunes**, UFRN, Brazil
+- **Genoveva Vargas-Solar**, CNRS, France
+
+**Data Science Challenges Couches**
+- **Joao Batista Souza**, IFRN, Brazil
 - **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
-- **Carmem Hara**, Universidade Federal do Parana, Brazil
-- **Michael Mrissa**, University of Primorska, Slovenia
-- **Alex Palesandro**, D2SI, France
-- **Pierluigi Plebani**, Politecnico di Milano, Italy
 - **Placido Antonio Souza Neto**, IFRN, Brazil
-- **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France
-- **José Luis Zechinelli Martini**, Universidad de las Américas Puebla, México
+
+
+
 
