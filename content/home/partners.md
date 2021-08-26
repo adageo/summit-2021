@@ -19,11 +19,7 @@ subtitle = ""
 
 The ADAGEO Summit and Thematic School is supported by the following institutions:
 
-<div class="container">    
-  <div class="row">
-    <div class="col-12 col-sm-auto"><a href="http://cnrs.fr/en/" target="_blank"><img src="/img/logos/logo_cnrs.png"></a></div>    
-    <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_liris.png"></a></div> 
-      <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_ufrn.png"></a></div> 
-     <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_capes.png"></a></div> 
-  </div>
-</div>
+<img style='display:inline; padding-right:30px' src="media/logo-cnrs.png" width="90" height="70" />
+<img style='display:inline; padding-right:30px' src="media/logo-liris.png" width="130" height="200" />
+<img style='display:inline; padding-right:30px' src="media/logo-ufrn.png" width="130" height="200" />
+<img style='display:inline; padding-right:10px' src="media/logo-capes.png" width="90" height="70" />
