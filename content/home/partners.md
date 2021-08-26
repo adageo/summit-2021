@@ -19,10 +19,11 @@ subtitle = ""
 
 The ADAGEO Summit and Thematic School is supported by the following institutions:
 
-<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-cnrs.png" width="90" height="70" />
-<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-liris.png" width="90" height="70" />
-<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-ufrn.png" width="90" height="70" />
-<img style='display:inline; padding-right:10px' src="https://github.com/adageo/summit-2021/raw/gh-pages/img/logos/logo-capes.png" width="90" height="70" />
-
-
-
+<div class="container">    
+  <div class="row">
+    <div class="col-12 col-sm-auto"><a href="http://cnrs.fr/en/" target="_blank"><img src="/img/logos/logo_cnrs.png"></a></div>    
+    <div class="col-12 col-sm-auto"><a href="http://liris.cnrs.fr/" target="_blank"><img src="/img/logos/logo_liris.png"></a></div>    
+    <div class="col-12 col-sm-auto"><a href="https://ufrn.br/" target="_blank"><img src="/img/logos/logo-ufrn.png"></a></div>      
+    <div class="col-12 col-sm-auto"><a href="http://www.capes.gov.br/" target="_blank"><img src="/img/logos/logo-capes.png"></a></div>        
+  </div>
+</div>
