@@ -25,5 +25,5 @@ subtitle = ""
 +++
 
 {{% alert warning %}}
-### **Program: [Submissions are open: get your pens ready](https://straps-workshop.github.io/#deadlines)!**
+### **Program: [Challenging time is on: get your Notebooks ready](https://adageo.github.io/summit-2021/#deadlines)!**
 {{% /alert %}}
