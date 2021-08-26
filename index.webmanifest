@@ -2,8 +2,8 @@
   "name": "ADAGEO SUMMIT 2021",
   "short_name": "ADAGEO SUMMIT 2021",
   "lang": "",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/summit-2021/images/icon_hu96e7a77558357cc801d7987b604bf5f1_19782_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
