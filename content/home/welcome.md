@@ -46,7 +46,7 @@ subtitle = ""
 +++
 
 # ADAGEO SUMMIT - THEMATIC SCHOOL 2021  
-## 1st Workshop on Data Science based Geophysics: connections, challenges & research opportunities 
-## In the context of the CNRS IEA France - Brazil [ADAGEO](https://adageo.github.io)
+## 1st SUMMIT & SCHOOL on Data Science based Geophysics: connections, challenges & research opportunities 
+## In the context of the CNRS EDI France - Brazil [ADAGEO](https://adageo.github.io)
 
 **29 November - 3 December 2021**
