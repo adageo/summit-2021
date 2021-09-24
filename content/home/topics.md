@@ -16,10 +16,11 @@ subtitle = ""
   columns = "2"
 +++
 
-**Programming data science experiments** 
-- Applying statistical methods to investigate and unveil new patterns in geophysical data, answering open problems, or leading to new research questions.
-- Building predictive models to better describe or approximate geophysical phenomena, increasing the knowledge about our planet.
-- Parallelizing algorithms for processing geophysical data, thus, allowing for the processing of very large data sets in reasonable times.
+**Topics** 
+- Applying statistical methods to investigate and unveil new geophysical data patterns, answer open problems, or lead to further research questions.
+- Building predictive models to describe better or approximate geophysical phenomena, increasing our knowledge about our planet.
+- Parallelizing algorithms for processing geophysical data, allowing for the processing of extensive data sets in reasonable times.
 
-Experiments will provide the ground to devise new data curation techniques to define new techniques for processing heterogeneous data. In addition, statistical knowledge is important for extracting information from the huge amount of data we will process. New methods and models will be important to model data and make conclusions in a timely fashion.
+
+Experiments will provide the ground to devise new data curation approaches to define new techniques for processing heterogeneous data. In addition, statistical knowledge is essential for extracting information from the massive amount of data we will process. New methods and models will be crucial to model data and make conclusions in a timely fashion.
 
