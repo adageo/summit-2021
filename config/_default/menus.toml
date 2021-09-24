@@ -14,20 +14,20 @@
   weight = 20
 
 [[main]]
+  name = "Program"
+  url = "#program"
+  weight = 30
+  
+[[main]]
   name = "Challenges & Key Dates"
   url = "#deadlines"
-  weight = 30
+  weight = 40
   
 #  [[main]]
 #  name = "Camera-Ready"
 #  url = "#Camera-Ready"
 #  weight = 35
 
-[[main]]
-  name = "Program"
-  url = "#program"
-  weight = 40
-  
 #  [[main]]
 #  name = "Keynotes"
 #  url = "#keynotes"
