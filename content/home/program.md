@@ -25,7 +25,7 @@ subtitle = ""
 |13:15-15:30| `Lectures session` **Chair: Martin Musicante, UFRN, Brazil** |
 |`Lecture`|  </br> **Scalable Machine Learning** </br>Mustapha Lebbah, U. Paris Sorbonne, France </br> [slides]()|
 |15:45-17:00| ***Challenges introduction session*** |
-|`Challenges`| </br> **Introduction & Organisation** </br> Bruno Motta, UFRN, Brazil </br> [slides]()|
+|`Challenges`| </br> **Introduction & Organisation** </br> Bruno M. Carvalho, UFRN, Brazil </br> [slides]()|
 |  | ***Tuesday 30th November 2021*** |
 |13:00-15:00|`Lectures session` **Chair: Umberto Souza, UFRN Brazil** |
 |`Lecture`|**Automation of  Machine Learning** </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil  </br> [video](), [slides]()|
@@ -34,18 +34,19 @@ subtitle = ""
 |`Challenges`|  </br> **To be announced** </br> Challenges Couches Committee  </br> [slides]()|
 |  | ***Wednesday 1st December 2021*** |
 |13:00-15:00| `Lectures session` **Chair: Bruno M. Carvalho, UFRN, Brazil** |
-|`Lecture`|  **TBD** </br>  </br> [video](), [slides]()|
+|`Lecture`|  **Data Science Platforms: how to set data science experiments at different scales** </br>  Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France</br> [video](), [slides]()|
+|`Lecture`|  **Experiments reproducibility** </br> TBD </br> [video](), [slides]()|
 |15:15-17:15| ***Challenges  session*** |
-|`Challenges`|  </br> **To be announced** </br> Challenges Couches Committee </br> [slides]()|
+|`Challenges`|  </br> **Working session** </br> Challenges Couches Committee </br> [slides]()|
 |  | ***Thursday 2nd December 2021*** |
 |13:00-13:15 | `Opening` **Summit organisers** |
 | 13:15-14:15| `Keynote session` **Chair: Aderson Nascimento, UFRN, Brazil** |
 |`Keynote`| **Large Scale Data Intensive Workflow Management** </br> Esther Pacitti, U. of Montpelier, France </br> [video](), [slides]()|
 |14:30-15:45 | `Keynote session` **Chair: TBD** |
-|`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br>  </br> [slides]()|
-|15:45-17:00 | `Panel session` **Chair: Martin Musicante, UFRN, Brazil**  |
-| `Panel` | **Title** |
-|`Panelists` | **TBD** </br> TBD </br> [video](), [slides]()
+|`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus, Genoveva, Aderson </br> [slides]()|
+|15:45-17:00 | `ADAGEO FEST` **Chair: Martin Musicante, UFRN, Brazil**  |
+| `Presentations` | **Milestones, challenges and perspectives of the ADAGEO IEA** |
+|`Panelists` | **ADAGEO Team Members** </br> Brazilian and French </br> [video](), [slides]()
 |  | ***Friday 3th December 2021*** |
 | 13:00-14:00| `Keynote session` **Chair: Genoveva Vargas-Solar, CNRS, LIRIS, France** |
 |`Keynote`|  **Real-time detection & nucleation of small earthquakes in Stable South America** </br> Marcelo Bianchi,  Instituto de Astronomia, Geofísica e Ciências Atmosféricas from Universidade de São Paulo, Brazil  </br> [video](), [slides]()|
