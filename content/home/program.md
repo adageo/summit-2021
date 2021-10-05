@@ -25,10 +25,11 @@ subtitle = ""
 |13:15-15:30| `Lectures session` **Chair: Martin Musicante, UFRN, Brazil** |
 |`Lecture`|  </br> **Scalable Machine Learning** </br>Mustapha Lebbah, U. Paris Sorbonne, France </br> [slides]()|
 |15:45-17:00| ***Challenges introduction session*** |
-|`Challenges`| </br> **Introduction & Organisation** </br> Genoveva Vargas-Solar, CNRS-LIRIS, France </br> [slides]()|
+|`Challenges`| </br> **Introduction & Organisation** </br> Bruno Motta, UFRN, Brazil </br> [slides]()|
 |  | ***Tuesday 30th November 2021*** |
 |13:00-15:00|`Lectures session` **Chair: Umberto Souza, UFRN Brazil** |
 |`Lecture`|**Automation of  Machine Learning** </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil  </br> [video](), [slides]()|
+|`Lecture`|**Geophysics for dummies** </br> TBD  </br> [video](), [slides]()|
 |15:15-17:15| ***Challenges  session*** |
 |`Challenges`|  </br> **To be announced** </br> Challenges Couches Committee  </br> [slides]()|
 |  | ***Wednesday 1st December 2021*** |
