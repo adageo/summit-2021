@@ -41,8 +41,8 @@ subtitle = ""
 |  | ***Thursday 2nd December 2021*** |
 |13:00-13:15 | `Opening` **Summit organisers** |
 | 13:15-14:15| `Keynote session` **Chair: Aderson Nascimento, UFRN, Brazil** |
-|`Keynote`| **Large Scale Data Intensive Workflow Management** </br> Esther Pacitti, U. of Montpelier, France </br> [video](), [slides]()|
-|14:30-15:45 | `Keynote session` **Chair: TBD** |
+|`Keynote`| **TBDD** </br> TBD </br> [video](), [slides]()|
+|14:30-15:45 | `Keynote session` **Chair: Umberto Souza, UFRN Brazil** |
 |`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus, Genoveva, Aderson </br> [slides]()|
 |15:45-17:00 | `ADAGEO FEST` **Chair: Martin Musicante, UFRN, Brazil**  |
 | `Presentations` | **Milestones, challenges and perspectives of the ADAGEO IEA** |
