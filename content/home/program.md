@@ -43,7 +43,7 @@ subtitle = ""
 | 13:15-14:15| `Keynote session` **Chair: Aderson Nascimento, UFRN, Brazil** |
 |`Keynote`| **The what, where and when of the space-time cubes** </br> Daniela Ballari, U. Azuay, Ecuator </br> [video](), [slides]()|
 |14:30-15:45 | `Keynote session` **Chair: Umberto Souza, UFRN Brazil** |
-|`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus Nunes, Genoveva Vargas-Solar, Aderson Nascimento </br> [slides]()|
+|`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus Nunes, UFRN, Genoveva Vargas-Solar, CNRS, Aderson Nascimento, UFRN </br> [slides]()|
 |15:45-17:00 | `ADAGEO FEST` **Chair: Martin Musicante, UFRN, Brazil**  |
 | `Presentations` | **Milestones, challenges and perspectives of the ADAGEO IEA** |
 |`Panelists` | **ADAGEO Team Members** </br> UFRN, Brazil and CNRS - LIRIS France </br> [video](), [slides]()
@@ -52,7 +52,7 @@ subtitle = ""
 |`Keynote`|  **Real-time detection & nucleation of small earthquakes in Stable South America** </br> Marcelo Bianchi,  Instituto de Astronomia, Geofísica e Ciências Atmosféricas from Universidade de São Paulo, Brazil  </br> [video](), [slides]()|
 |14:15-16:00|`Panel session` **Chair: Aderson Nascimento, UFRN, Brazil** |
 | `Panel` |  **Data Science based Geophysics: connections, challenges & research opportunities** |
-|`Panelists`| **TBD** </br> TBD </br> [video](), [slides]()
+|`Panelists`| **Actors and leading scientists on the topic** </br> France, Brazil and the world </br> [video](), [slides]()
 |16:15-17:00  | `Challenges session` **Chair: Challenges Couches Committee** |
 |`Demonstrations`| **Demo Fest** </br> Working teams </br>|
 |17:00-17:15 | Challenges award session and Closing, **Summit organisers** |
