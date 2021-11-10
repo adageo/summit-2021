@@ -46,12 +46,12 @@ subtitle = ""
 |`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus Nunes, Genoveva Vargas-Solar, Aderson Nascimento </br> [slides]()|
 |15:45-17:00 | `ADAGEO FEST` **Chair: Martin Musicante, UFRN, Brazil**  |
 | `Presentations` | **Milestones, challenges and perspectives of the ADAGEO IEA** |
-|`Panelists` | **ADAGEO Team Members** </br> Brazilian and French </br> [video](), [slides]()
+|`Panelists` | **ADAGEO Team Members** </br> UFRN, Brazil and CNRS - LIRIS France </br> [video](), [slides]()
 |  | ***Friday 3th December 2021*** |
 | 13:00-14:00| `Keynote session` **Chair: Genoveva Vargas-Solar, CNRS, LIRIS, France** |
 |`Keynote`|  **Real-time detection & nucleation of small earthquakes in Stable South America** </br> Marcelo Bianchi,  Instituto de Astronomia, Geofísica e Ciências Atmosféricas from Universidade de São Paulo, Brazil  </br> [video](), [slides]()|
 |14:15-16:00|`Panel session` **Chair: Aderson Nascimento, UFRN, Brazil** |
-| `Panel` |  **Title** |
+| `Panel` |  **Data Science based Geophysics: connections, challenges & research opportunities** |
 |`Panelists`| **TBD** </br> TBD </br> [video](), [slides]()
 |16:15-17:00  | `Challenges session` **Chair: Challenges Couches Committee** |
 |`Demonstrations`| **Demo Fest** </br> Working teams </br>|
