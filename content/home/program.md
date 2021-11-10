@@ -45,7 +45,7 @@ subtitle = ""
 |14:30-15:45 | `Keynote session` **Chair: Umberto Souza, UFRN Brazil** |
 |`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus Nunes, UFRN, Genoveva Vargas-Solar, CNRS, Aderson Nascimento, UFRN </br> [slides]()|
 |15:45-17:00 | `ADAGEO FEST` **Chair: Martin Musicante, UFRN, Brazil**  |
-| `Presentations` | **Milestones, challenges and perspectives of the ADAGEO IEA** |
+| `Discussion Panel` | **Milestones, challenges and perspectives of the ADAGEO IEA** |
 |`Panelists` | **ADAGEO Team Members** </br> UFRN, Brazil and CNRS - LIRIS France </br> [video](), [slides]()
 |  | ***Friday 3th December 2021*** |
 | 13:00-14:00| `Keynote session` **Chair: Genoveva Vargas-Solar, CNRS, LIRIS, France** |
