@@ -24,9 +24,13 @@ subtitle = ""
 - **Genoveva Vargas-Solar**, CNRS, France
 
 **Data Science Challenges Couches**
+- **Flavio Santana**, UFRN, Brazil
 - **Joao Batista Souza**, IFRN, Brazil
+- **José Fonsêca**, UFRN, Brazil
 - **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
+- **Karen Maria Leopoldino Oliveira**, UFC, Brazil
 - **Placido Antonio Souza Neto**, IFRN, Brazil
+- **Waldson Patricio**, UFRN, Brazil
 
 
 
