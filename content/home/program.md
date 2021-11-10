@@ -29,15 +29,15 @@ subtitle = ""
 |  | ***Tuesday 30th November 2021*** |
 |13:00-15:00|`Lectures session` **Chair: Umberto Souza, UFRN Brazil** |
 |`Lecture`|**Automation of  Machine Learning** </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil  </br> [video](), [slides]()|
-|`Lecture`|**Geophysics for dummies** </br> TBD  </br> [video](), [slides]()|
+|`Lecture`|**Geophysics for dummies** </br> **Aderson Nascimento, UFRN, Brazil**  </br> [video](), [slides]()|
 |15:15-17:15| ***Challenges  session*** |
-|`Challenges`|  </br> **To be announced** </br> Challenges Couches Committee  </br> [slides]()|
+|`Challenges`|  </br> **Discussion on data preparation** </br> Challenges Couches Committee  </br> [slides]()|
 |  | ***Wednesday 1st December 2021*** |
 |13:00-15:00| `Lectures session` **Chair: Bruno M. Carvalho, UFRN, Brazil** |
 |`Lecture`|  **Data Science Platforms: how to set data science experiments at different scales** </br>  Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France</br> [video](), [slides]()|
-|`Lecture`|  **Experiments reproducibility** </br> TBD </br> [video](), [slides]()|
+|`Lecture`|  **Experiments reproducibility** </br> Daniela Ballari, U. Uzuay, Ecuator </br> [video](), [slides]()|
 |15:15-17:15| ***Challenges  session*** |
-|`Challenges`|  </br> **Working session** </br> Challenges Couches Committee </br> [slides]()|
+|`Challenges`|  </br> **Working session: designing experiments** </br> Challenges Couches Committee </br> [slides]()|
 |  | ***Thursday 2nd December 2021*** |
 |13:00-13:15 | `Opening` **Summit organisers** |
 | 13:15-14:15| `Keynote session` **Chair: Aderson Nascimento, UFRN, Brazil** |
