@@ -29,21 +29,21 @@ subtitle = ""
 |  | ***Tuesday 30th November 2021*** |
 |13:00-15:00|`Lectures session` **Chair: Umberto Souza, UFRN Brazil** |
 |`Lecture`|**Automation of  Machine Learning** </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil  </br> [video](), [slides]()|
-|`Lecture`|**Geophysics for dummies** </br> **Aderson Nascimento, UFRN, Brazil**  </br> [video](), [slides]()|
+|`Lecture`|**Geophysics for dummies** </br> Aderson Nascimento, UFRN, Brazil </br> [video](), [slides]()|
 |15:15-17:15| ***Challenges  session*** |
 |`Challenges`|  </br> **Discussion on data preparation** </br> Challenges Couches Committee  </br> [slides]()|
 |  | ***Wednesday 1st December 2021*** |
 |13:00-15:00| `Lectures session` **Chair: Bruno M. Carvalho, UFRN, Brazil** |
 |`Lecture`|  **Data Science Platforms: how to set data science experiments at different scales** </br>  Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France</br> [video](), [slides]()|
-|`Lecture`|  **Experiments reproducibility** </br> Daniela Ballari, U. Uzuay, Ecuator </br> [video](), [slides]()|
+|`Lecture`|  **Experiments reproducibility** </br> Daniela Ballari, U. Azuay, Ecuator </br> [video](), [slides](https://www.canva.com/design/DAEKbVwUKYw/rOGYGBJN0mhU7FnG8Eog6g/view?utm_content=DAEKbVwUKYw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&fbclid=IwAR0A2KBbXyNWPoEL21CKDr6hwHCFgmfGfu3vlu32VWtaU0o-A2mKfQAaIG4)|
 |15:15-17:15| ***Challenges  session*** |
 |`Challenges`|  </br> **Working session: designing experiments** </br> Challenges Couches Committee </br> [slides]()|
 |  | ***Thursday 2nd December 2021*** |
 |13:00-13:15 | `Opening` **Summit organisers** |
 | 13:15-14:15| `Keynote session` **Chair: Aderson Nascimento, UFRN, Brazil** |
-|`Keynote`| **TBDD** </br> TBD </br> [video](), [slides]()|
+|`Keynote`| **The what, where and when of the space-time cubes** </br> Daniela Ballari, U. Azuay, Ecuator </br> [video](), [slides]()|
 |14:30-15:45 | `Keynote session` **Chair: Umberto Souza, UFRN Brazil** |
-|`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus, Genoveva, Aderson </br> [slides]()|
+|`Polyphonic Keynote`|  </br> **Data Science Current Status and Trends** </br> Marcus Nunes, Genoveva Vargas-Solar, Aderson Nascimento </br> [slides]()|
 |15:45-17:00 | `ADAGEO FEST` **Chair: Martin Musicante, UFRN, Brazil**  |
 | `Presentations` | **Milestones, challenges and perspectives of the ADAGEO IEA** |
 |`Panelists` | **ADAGEO Team Members** </br> Brazilian and French </br> [video](), [slides]()
