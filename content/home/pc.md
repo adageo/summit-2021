@@ -29,6 +29,7 @@ subtitle = ""
 - **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
 - **Karen Maria Leopoldino Oliveira**, UFC, Brazil
 - **Placido Antonio Souza Neto**, IFRN, Brazil
+- **Samuel Oliveira**, UFRN, Brazil
 - **Waldson Patricio**, UFRN, Brazil
 
 
