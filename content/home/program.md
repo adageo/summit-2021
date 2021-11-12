@@ -31,7 +31,7 @@ subtitle = ""
 | |[zoom](https://cnrs.zoom.us/j/93493517297?pwd=MFBlZnY0OFlWQ3d3YlA3d0MvU1hQUT09) a7gWet |
 |13:00-15:00|`Lectures session` **Chair: Umberto Souza, UFRN Brazil** |
 |`Lecture`|**Automation of  Machine Learning** </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil  </br> [video](), [slides]()|
-|`Lecture`|**Geophysics for dummies** </br> Aderson Nascimento, UFRN, Brazil </br> [video](), [slides]()|
+|`Lecture`|**Data and Geo Sciences – doomed to a happy wedlock** </br> Aderson Nascimento, UFRN, Brazil </br> [video](), [slides]()|
 |15:15-17:15| ***Challenges  session*** |
 |`Challenges`|  </br> **Discussion on data preparation** </br> Challenges Couches Committee  </br> [slides]()|
 |  | ***Wednesday 1st December 2021*** |
