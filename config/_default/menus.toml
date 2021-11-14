@@ -17,12 +17,12 @@
   name = "Program"
   url = "#program"
   weight = 30
-  
+
 [[main]]
   name = "Challenges & Key Dates"
   url = "#deadlines"
   weight = 40
-  
+
 #  [[main]]
 #  name = "Camera-Ready"
 #  url = "#Camera-Ready"
@@ -30,9 +30,9 @@
 
  [[main]]
   name = "Keynotes"
-  url = "#keynotes"
+  url = "keynotes/"
   weight = 50
-  
+
 [[main]]
   name = "Scientific Committee & Couches"
   url = "#pc"

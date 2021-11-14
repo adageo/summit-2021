@@ -27,4 +27,4 @@ The challenges contest schedule is the following:
 -   Final solutions: **Thursday 2nd December 2021** 
 -   Results: **Friday 3th, 2021**
 
-Go to [challenges and the instructions](/summit-2021/challenges) for more information.
+Go to [challenges and the instructions](challenges/) for more information.
