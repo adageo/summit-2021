@@ -3,7 +3,7 @@
 widget: "blank"
 headless: true  # This file represents a page section.
 
-title : "Keynotes"
+title : "Speakers"
 subtitle : ""
 active : true
 weight : 40
@@ -30,7 +30,6 @@ header:
 
 * [Data and Geo Sciences – doomed to a happy wedlock](#Nascimento)  
 **Aderson do Nascimento**
-
 
 * [Data Science Platforms: how to set data science experiments at different scales](#Espinosa)  
 **Javier A. Espinosa-Oviedo**
