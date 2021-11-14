@@ -17,7 +17,7 @@ subtitle = ""
 
 +++
 
-Challenges participants' teams will work during the first four days of the school to propose and implement data science solutions to geophysics challenges and a coaching team assigned by the school organizers. 
+Challenges participants' teams will work during the first four days of the school to propose and implement data science solutions to geophysics challenges and a coaching team assigned by the school organizers.
 
 ##### IMPORTANT DATES
 
@@ -26,3 +26,5 @@ The challenges contest schedule is the following:
 -   Assignment of challenges to teams: **Monday 29th November** afternoon
 -   Final solutions: **Thursday 2nd December 2021** 
 -   Results: **Friday 3th, 2021**
+
+Go to [challenges and the instructions](/summit-2021/challenges) for more information.
