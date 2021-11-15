@@ -46,3 +46,5 @@ cUse Kaggle or Collab for developing your solution. We do not ask for a finalise
 
 1. Now the objective is to use the dataset to locate the earthquakes.
 2. You can plot a map to show your results.
+
+![challenge1](http://adageo.github.io/summit-2021/img/challenge1.jpg)

@@ -46,3 +46,5 @@ For addressing the challenge, you can use any method you prefer, mathematical, m
 3. Pick local maxima of these coherence semblances and assign zero-offset time and corresponding stacking velocities. Note that in presence of not properly accounted for shallow or overburden velocity anomalies, the difference between stacking and interval velocities can be quite large (up to 30% and more). Therefore before using this approach, we have to remove the effects of the lateral velocity changes in the overburden.
 4. Correct the CDP or CMP gathers for normal moveout (NMO).
 5. Report and plot your results, including an explanation of the results. Compare the results of your approaches, if you develop more than one.
+
+![challenge2](http://adageo.github.io/summit-2021/img/challenge2.png)
