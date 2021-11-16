@@ -29,7 +29,7 @@ Have a hands on experience on designing and implementing data science experiment
 ### General Rules
 
 1. Groups of 4 participants, if possible, gender/regional/discipline-balanced.
-1. Notebooks should be public and accessible online (Kaggle, Collab, Github).
+1. Notebooks should be public and accessible online (Kaggle, Colab, Github).
 1. Groups can use libraries, methods and any other material required respecting the intellectual property of authors.
 1. Short demo - video pitch specifying image privacy of authors.
 
