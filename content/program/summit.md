@@ -1,6 +1,6 @@
 ---
 title: "Summit Program"
-subtitle : "`Paris TIME (GMT+4)`"
+subtitle : "`Paris TIME (GMT+1)`"
 active : true
 weight : 42
 
