@@ -16,7 +16,7 @@ subtitle = ""
   columns = "2"
 
 +++
-**Paris TIME (GMT+4)** []()
+**Paris TIME (GMT+1)** []()
 
 |  |  |
 |---|---|
