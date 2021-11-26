@@ -24,7 +24,7 @@ header:
 | | | |
 |:---|:---|:---|
 |13:00-13:15|           | **Opening** </br> Workshop organisers
-|13:15-15:30| `Lecture` | [**Scalable Machine Learning**](../speakers/#Lebbah) </br>Mustapha Lebbah, U. Paris Sorbonne, France </br> [slides]() </br></br> _Chair: Martin Musicante, UFRN, Brazil_
+|13:15-15:30| `Lecture` | [**Scalable Machine Learning**](../speakers/#Lebbah) </br>Mustapha Lebbah, U. Paris Sorbonne, France </br> [slides]() </br></br> _Chair: TBA_
 |15:45-17:00| `Challenges`| **Introduction & Organisation** </br> Bruno M. Carvalho, UFRN, Brazil </br> [slides]()|
 
 
@@ -34,8 +34,8 @@ header:
 
 | | | |
 |:---|:---|:---|
-|13:00-14:00| `Lecture` | [**Automation of  Machine Learning**](../speakers/#Pozo) </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil </br> [video](), [slides]() </br></br> _Chair: Umberto Souza, UFRN Brazil_
-|14:00-15:00| `Lecture`| [**Data and Geo Sciences – doomed to a happy wedlock**](../speakers/#Nascimento) </br> Aderson Nascimento, UFRN, Brazil </br> [video](), [slides]() </br></br> _Chair: Umberto Souza, UFRN Brazil_
+|13:00-14:00| `Lecture` | [**Automation of  Machine Learning**](../speakers/#Pozo) </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil </br> [video](), [slides]() </br></br> _Chair: Martin Musicante, UFRN, Brazil_
+|14:00-15:00| `Lecture`| [**Data and Geo Sciences – doomed to a happy wedlock**](../speakers/#Nascimento) </br> Aderson Nascimento, UFRN, Brazil </br> [video](), [slides]() </br></br> _Chair: TBA_
 |15:15-17:15|`Challenges`| **Discussion on data preparation** </br> Challenges Couches Committee  </br> [slides]()
 
 
@@ -46,5 +46,5 @@ header:
 | | | |
 |:---|:---|:---|
 |13:00-14:00| `Lecture` | [**Data Science Platforms: how to set data science experiments at different scales**](../speakers/#Espinosa) </br>  Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France</br> [video](), [slides]() </br></br> _Chair: Bruno M. Carvalho, UFRN, Brazil_
-|14:00-15:00|`Lecture`| **Experiments reproducibility** </br> Daniela Ballari, U. Azuay, Ecuator </br> [video](), [slides](https://www.canva.com/design/DAEKbVwUKYw/rOGYGBJN0mhU7FnG8Eog6g/view?utm_content=DAEKbVwUKYw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&fbclid=IwAR0A2KBbXyNWPoEL21CKDr6hwHCFgmfGfu3vlu32VWtaU0o-A2mKfQAaIG4) </br></br> _Chair: Bruno M. Carvalho, UFRN, Brazil_
+|14:00-15:00|`Lecture`| **Experiments reproducibility** </br> Daniela Ballari, U. Azuay, Ecuator </br> [video](), [slides](https://www.canva.com/design/DAEKbVwUKYw/rOGYGBJN0mhU7FnG8Eog6g/view?utm_content=DAEKbVwUKYw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&fbclid=IwAR0A2KBbXyNWPoEL21CKDr6hwHCFgmfGfu3vlu32VWtaU0o-A2mKfQAaIG4) </br></br> _Chair: Umberto Costa, UFRN, Brazil_
 |15:15-17:15|`Challenges`| **Working session: designing experiments** </br> Challenges Couches Committee </br> [slides]()
