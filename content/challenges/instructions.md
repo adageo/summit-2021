@@ -19,8 +19,8 @@ header:
 ### Challenges:
 
 * [Challenge 1: Estimating the approximate earthquake epicentres](https://docs.google.com/document/d/16HBcwkSAMDtNXILKeU-Ul9RE6DEr8WSj/edit?usp=sharing&ouid=102459770522520258686&rtpof=true&sd=true)
-* [Challenge 2: Estimation of stacking velocity using CDP semblance](https://docs.google.com/document/d/1XHrMZQtCFUH8K5dQTmZqKDF0rJ3MCVi_/edit?usp=sharing&ouid=102459770522520258686&rtpof=true&sd=true)
-* [Challenge 3: Filtering data from sensors](https://docs.google.com/document/d/1dyzySVpUM-1OqDgLq9emp6p68t4_69yb/edit)
+* [Challenge 2: Estimation of stacking velocity using CDP semblance](https://docs.google.com/document/d/1XHrMZQtCFUH8K5dQTmZqKDF0rJ3MCVi_/edit?usp=sharing&ouid=102364895659292119230&rtpof=true&sd=true)
+* [Challenge 3: Filtering data from sensors](https://docs.google.com/document/d/16HBcwkSAMDtNXILKeU-Ul9RE6DEr8WSj/edit?usp=sharing&ouid=102364895659292119230&rtpof=true&sd=true)
 
 {{% alert note %}}
 **Datasets**
