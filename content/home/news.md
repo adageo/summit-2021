@@ -28,5 +28,5 @@ subtitle = ""
 {{% alert note %}}
 **Registration Links**:
 * Register as [SUMMIT & SCHOOL attendee](https://forms.gle/ajHS79hzqNj3Y5x56)
-* Register as [challenges participant only](https://forms.gle/Zz4jtMxeN49UH1qb8)
+* Register to [challenges](https://forms.gle/Zz4jtMxeN49UH1qb8)
 {{% /alert %}}
