@@ -63,5 +63,5 @@ Have a hands on experience on designing and implementing data science experiment
 
 ### Questions?
 
-`adageo.br.fr`
+`adageo.br.fr`   
 _____________@gmail.com
