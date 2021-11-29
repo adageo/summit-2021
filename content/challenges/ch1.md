@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 
 title : "Challenge 1"
 subtitle : ""
-active : true
+active : false
 weight : 41
 
 share: false
