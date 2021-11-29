@@ -22,6 +22,13 @@ header:
 * [Challenge 2: Estimation of stacking velocity using CDP semblance](https://docs.google.com/document/d/1XHrMZQtCFUH8K5dQTmZqKDF0rJ3MCVi_/edit?usp=sharing&ouid=102459770522520258686&rtpof=true&sd=true)
 * [Challenge 3: Filtering data from sensors](https://docs.google.com/document/d/1dyzySVpUM-1OqDgLq9emp6p68t4_69yb/edit)
 
+**Datasets**
+* [Challenge 1 dataset](https://drive.google.com/drive/folders/1ztekCKKQtslHdATup9h3KQWmVvERtyHC?usp=sharing)
+* [Challenge 2 dataset](https://drive.google.com/drive/folders/1ztekCKKQtslHdATup9h3KQWmVvERtyHC?usp=sharing)
+* [Challenge 3 dataset](https://drive.google.com/drive/folders/1jOT1DwhBZNqnqL6BfBQ3JmV71QSBL4ha?usp=sharing)
+
+
+
 ### Objective
 
 Have a hands on experience on designing and implementing data science experiments for addressing geophysics problems.  
