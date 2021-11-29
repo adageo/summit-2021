@@ -18,8 +18,10 @@ header:
 
 
 ### Monday, 29 November 2021
+{{% alert note %}}
+[Video Monday, 29 November 2021](https://youtu.be/RGLRmgVSXko) 
+{{% /alert %}}
 
-[zoom](https://cnrs.zoom.us/j/92649229317?pwd=ZDA2NEdHY2hqa0xtb3FldUs5c2V6UT09) mrV8Gk
 
 | | | |
 |:---|:---|:---|
