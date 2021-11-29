@@ -60,3 +60,8 @@ Have a hands on experience on designing and implementing data science experiment
 1. Notebook with the full profiling, study and preparation of your data. Use plots whenever possible.
 2. If data is prepared or engineered, a link to the repository of the prepared dataset
 3. Notebook with the solution with the explanation of the principle, of the phases of the study with partial     results interpretation, results and fundamental the adopted assessment method. Use plots whenever possible.
+
+### Questions?
+
+`adageo.br.fr`
+_____________@gmail.com
