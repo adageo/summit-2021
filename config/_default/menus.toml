@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Challenges & Key Dates"
-  url = "#deadlines"
+  url = "challenges/"
   weight = 40
 
 #  [[main]]
