@@ -25,7 +25,7 @@ header:
 {{% alert note %}}
 **Datasets**
 * [Challenge 1 dataset](https://drive.google.com/drive/folders/1ztekCKKQtslHdATup9h3KQWmVvERtyHC?usp=sharing)
-* [Challenge 2 dataset](https://drive.google.com/drive/folders/1ztekCKKQtslHdATup9h3KQWmVvERtyHC?usp=sharing)
+* [Challenge 2 dataset](https://drive.google.com/drive/folders/11D97D1qo8huynWxHYH-rtvxcTxqb_fI9)
 * [Challenge 3 dataset](https://drive.google.com/drive/folders/1jOT1DwhBZNqnqL6BfBQ3JmV71QSBL4ha?usp=sharing)
 {{% /alert %}}
 
