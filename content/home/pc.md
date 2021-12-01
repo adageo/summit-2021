@@ -26,12 +26,8 @@ subtitle = ""
 **Data Science Challenges Couches**
 - **Flavio Lemos de Santana**, UFRN, Brazil
 - **José Fonsêca**, UFRN, Brazil
-- **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
+- **Javier A. Espinosa Oviedo**, University of Lyon, France
 - **Karen Maria Leopoldino Oliveira**, UFC, Brazil
 - **Placido Antonio Souza Neto**, IFRN, Brazil
 - **Samuel Oliveira**, UFRN, Brazil
 - **Waldson Patricio**, UFRN, Brazil
-
-
-
-

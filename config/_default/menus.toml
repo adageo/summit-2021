@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Challenges & Key Dates"
+  name = "Challenges"
   url = "challenges/"
   weight = 40
 
