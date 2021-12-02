@@ -8,6 +8,7 @@
 &lt;li>&lt;strong>Marcelo Bianchi&lt;/strong>, IAG, University of Sao Paulo, Brazil&lt;/li>
 &lt;li>&lt;strong>Paulo Johann&lt;/strong>, Petróleo Brasileiro S.A., Brazil&lt;/li>
 &lt;li>&lt;strong>Marcus Nunes&lt;/strong>, UFRN, Brazil&lt;/li>
+&lt;li>&lt;strong>José Ramón Ríos Viqueira&lt;/strong>, Univ. of Santiago de Compostela - CITUS, Spain&lt;/li>
 &lt;li>&lt;strong>Aderson Farias do Nascimento&lt;/strong>, UFRN, Brazil&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://adageo.github.io/summit-2021/author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adageo.github.io/summit-2021/author/</guid><description>&lt;h2 id="building-edge-and-fog-applications-on-the-fogstore-platform">Building edge and fog applications on the FogStore platform&lt;/h2>
 &lt;p>Today’s applications in domains such as the Internet of Things are no longer cloud-based. Instead, they often rely on edge and fog resources to address latency and privacy requirements or to deal with bandwidth limitations. Handling the complexity of such environments, however, often exceeds the capabilities of the average software developer. In this talk, we will give an overview of the FogStore platform and the abstractions it provides which significantly eases the development of applications that go beyond cloud-only deployments.&lt;/p>
