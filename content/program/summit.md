@@ -24,7 +24,7 @@ header:
 |:---|:---|:---|
 |13:00-13:15| | **Opening** </br> Summit organisers
 |13:15-14:15| `Keynote` | **The what, where and when of the space-time cubes** </br> Daniela Ballari, U. Azuay, Ecuator </br> [slides](https://www.canva.com/design/DAExOLdXE7k/8M0KoZ4zFd3mer0ahZ4uGg/view) </br></br> _Chair: Umberto Costa, UFRN, Brazil_
-|14:30-15:45| `Keynote` | **Data Science Current Status and Trends** </br> Marcus Nunes, UFRN </br> Genoveva Vargas-Solar, CNRS </br> Aderson Nascimento, UFRN  </br></br> _Chair: Martin Musicante, UFRN Brazil_
+|14:30-15:45| `Keynote` | **Data Science Current Status and Trends** </br> Marcus Nunes, UFRN </br> Genoveva Vargas-Solar, CNRS </br> Aderson Nascimento, UFRN  </br> [slides](https://drive.google.com/file/d/1LylkId-8AKVz8kbQkI3Dfk1e7Wjvn5Cc/view?usp=sharing) </br></br> _Chair: Martin Musicante, UFRN Brazil_
 |15:45-17:00| `Panel`   |  **Milestones, challenges and perspectives of the ADAGEO IEA** </br> ADAGEO Team Members </br></br> _Chair: Genoveva Vargas-Solar, CNRS-LIRIS, France_
 
 
