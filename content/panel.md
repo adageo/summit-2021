@@ -26,4 +26,5 @@ header:
 - **Marcelo Bianchi**, IAG, University of Sao Paulo, Brazil
 - **Paulo Johann**, Petróleo Brasileiro S.A., Brazil
 - **Marcus Nunes**, UFRN, Brazil
+- **José Ramón Ríos Viqueira**, Univ. of Santiago de Compostela - CITUS, Spain
 - **Aderson Farias do Nascimento**, UFRN, Brazil
