@@ -38,7 +38,9 @@ header:
 
 | | | |
 |:---|:---|:---|
-|13:00-14:00| `Lecture` | [**Automation of  Machine Learning**](../speakers/#Pozo) </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil </br></br> _Chair: Martin Musicante, UFRN, Brazil_
+|13:00-14:00| `Lecture` | [**Automation of  Machine Learning**](../speakers/#Pozo) </br> Aurora Trinidad Pozo, Universidade Federal do Paraná, Brazil </br>
+[slides](https://drive.google.com/file/d/1o6xAH855sax86p4aFKW5n9z6u7dz0Ng8/view?usp=sharing)
+</br></br> _Chair: Martin Musicante, UFRN, Brazil_
 |14:00-15:00| `Lecture`| [**Data and Geo Sciences – doomed to a happy wedlock**](../speakers/#Nascimento) </br> Aderson Nascimento, UFRN, Brazil  </br></br> _Chair: Martin Musicante, UFRN, Brazil_
 |15:15-17:15|`Challenges`| **Discussion on data preparation** </br> Challenges Couches Committee
 
