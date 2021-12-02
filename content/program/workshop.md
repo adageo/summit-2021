@@ -26,7 +26,7 @@ header:
 | | | |
 |:---|:---|:---|
 |13:00-13:15|           | **Opening** </br> Workshop organisers
-|13:15-15:30| `Lecture` | [**Scalable Machine Learning**](../speakers/#Lebbah) </br>Mustapha Lebbah, U. Paris Sorbonne, France </br> [slides](https://drive.google.com/file/d/1Br3iTP7yeJ2eQ3Yvq9hGr2E9BJPgyWE-/view?usp=sharing) </br></br> _Chair: Genoveva Vargas-Solar, CNRS-LIRIS, France_
+|13:15-15:30| `Lecture` | [**Scalable Machine Learning**](../speakers/#Lebbah) </br>Mustapha Lebbah, U. Paris Sorbonne, France </br> [slides](https://drive.google.com/file/d/1Br3iTP7yeJ2eQ3Yvq9hGr2E9BJPgyWE-/view?usp=sharing), [material](https://drive.google.com/drive/folders/1r23o0faYvhZW6TZb-a9su5A3JZwhrzFV?usp=sharing) </br></br> _Chair: Genoveva Vargas-Solar, CNRS-LIRIS, France_
 |15:45-17:00| `Challenges`| **Introduction & Organisation** </br> Bruno M. Carvalho, UFRN, Brazil </br> [slides](https://drive.google.com/file/d/1qQVgAdPesRBsXCjXZc51_QgZw0JJBo6M/view?usp=sharing)|
 
 
