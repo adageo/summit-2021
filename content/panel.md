@@ -16,10 +16,7 @@ header:
   image: ""
 ---
 
-### Teasing Questions
-
-- Questions 1
-- Questions 2
+### [Teasing Questions](http://vargas-solar.com/adageo-summit-2021-geo-ds-experts-panel/)
 
 ### Panelists
 
