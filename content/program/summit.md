@@ -19,6 +19,10 @@ header:
 
 ### Thursday, 2 December 2021
 
+{{% alert note %}}
+[Video Thursday, 2 December 2021](https://youtu.be/auiXN0RZQMU)
+{{% /alert %}}
+
 | | | |
 |:---|:---|:---|
 |13:00-13:15| | **Opening** </br> Summit organisers
