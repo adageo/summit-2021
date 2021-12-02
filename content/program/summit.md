@@ -18,7 +18,6 @@ header:
 
 
 ### Thursday, 2 December 2021
-[zoom](https://cnrs.zoom.us/j/92961033942?pwd=clJTaW1nVVZIL0ZvU1FjZFpSL1dVdz09) S4CDWx
 
 | | | |
 |:---|:---|:---|
