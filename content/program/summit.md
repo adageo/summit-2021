@@ -40,6 +40,6 @@ header:
 | | | |
 |:---|:---|:---|
 |13:00-14:00| `Keynote` | **Real-time detection & nucleation of small earthquakes in Stable South America** </br> Marcelo Bianchi, IAG, University of Sao Paulo, Brazil <br><br> _Chair: Aderson Nascimento, UFRN, Brazil_
-|14:15-16:00| `Panel` | [**Data Science based Geophysics: connections, challenges & research opportunities**](../panel) </br> Actors and leading scientists on the topic: </br> -- Marcelo Bianchi, IAG, University of Sao Paulo, Brazil </br> -- Paulo Johann, Petróleo Brasileiro S.A., Brazil </br> -- Marcus Nunes, UFRN, Brazil </br> -- Aderson Farias do Nascimento, UFRN, Brazil </br></br> _Chair: Genoveva Vargas-Solar, CNRS-LIRIS, France_
+|14:15-16:00| `Panel` | [**Data Science based Geophysics: connections, challenges & research opportunities**](../panel) </br> Actors and leading scientists on the topic: </br> -- Marcelo Bianchi, IAG, University of Sao Paulo, Brazil </br> -- Paulo Johann, Petróleo Brasileiro S.A., Brazil </br> -- José Ramón Ríos Viqueira, Univ. of Santiago de Compostela - CITUS, Spain  </br> -- Aderson Farias do Nascimento, UFRN, Brazil </br></br> _Chair: Genoveva Vargas-Solar, CNRS-LIRIS, France_
 |16:15-17:00| `Challenges` | **Demo Fest** </br> Working teams <br><br> _Chair: Challenges Couches Committee_
 |17:00-17:15| `Closing` | **Challenges award session and Closing** </br> Summit organisers
