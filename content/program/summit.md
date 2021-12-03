@@ -34,8 +34,10 @@ header:
 
 
 ### Friday, 3 December 2021
-[zoom](https://cnrs.zoom.us/j/92099130852?pwd=MDFWU250OFdidVhBOE81SDgwU1Y0UT09) iVbE9Z
 
+{{% alert note %}}
+[Video Friday, 3 December 2021](https://youtu.be/ciUD_C1h00Q)
+{{% /alert %}}
 
 | | | |
 |:---|:---|:---|
